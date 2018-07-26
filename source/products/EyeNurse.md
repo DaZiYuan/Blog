@@ -4,6 +4,8 @@ date: 2018-07-20 17:17:44
 categories: products
 tags:
 ---
+
+<center><img  style="display:inline !important;width:200px;height:200px" src="https://mscoder.cn/res/imgs/products/logo_eyenurse.png"/></center>
 ## 用意：
 * 一个小软件用来提醒长期伏案的电脑使用者保护爱眼
 * 开源项目参与人既是用户也是开发者，有能力的可以自己加需求
