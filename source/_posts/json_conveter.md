@@ -3,7 +3,8 @@ author: 打字员
 tags:
   - Golang
 categories:
-  - Golang 代码片段
+  - Golang
+  - ''
 date: 2018-09-27 11:34:00
 ---
 #### 目的

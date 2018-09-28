@@ -3,7 +3,9 @@ author: 打字员
 tags:
   - Python
 categories:
-  - Python 代码片段
+  - Python
+  - ''
+  - ''
 date: 2018-09-28 17:45:00
 ---
 
