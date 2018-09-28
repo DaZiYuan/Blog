@@ -361,7 +361,7 @@ baidu_analytics: 8747c6e4fd95475fd764bd3c52e82b02
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: mscoder
   count: true
 
