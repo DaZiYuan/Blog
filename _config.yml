@@ -13,10 +13,11 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-#url: http://mscoder.cn
+url: https://mscoder.cn
 root: /
 # permalink: :year/:month/:day/:title/
-permalink: :category/:title.html
+# permalink: :category/:title.html
+permalink: :title.html
 permalink_defaults:
 
 # Directory
@@ -85,13 +86,16 @@ deploy:
 - type: git
   repo: https://git.coding.net/arrow_man/Blog.MscoderStudio.git
   branch: master
+# SEO
 - type: baidu_url_submitter
+
+# SEO
 sitemap: 
     path: sitemap.xml
 baidusitemap:
     path: baidusitemap.xml
 baidu_url_submit:
-  count: 10 ## 提交最新的一个链接
+  count: 1 ## 提交最新的一个链接
   host:  www.mscoder.cn ## 在百度站长平台中注册的域名
-  token: ## 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!
+  token:  ## 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!
   path: baidu_urls.txt ## 文本文档的地址， 新链接会保存在此文本文档里
