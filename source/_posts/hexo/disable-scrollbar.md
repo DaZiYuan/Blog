@@ -1,4 +1,4 @@
-title: hexo next主题 禁用代码段.code pre滚动条以及自动换行
+title: Hexo Next主题 禁用代码段.code pre滚动条以及自动换行
 author: 打字员
 tags:
   - CSS
