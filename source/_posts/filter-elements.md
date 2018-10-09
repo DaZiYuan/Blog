@@ -6,7 +6,7 @@ categories:
   - JavaScript
 date: 2018-10-09 10:44:00
 ---
-##### 利用ES2015原声支持的querySelectorAll查找包含指定文本的元素
+##### 利用ES2015原生支持的querySelectorAll查找包含指定文本的元素
 
 例如查找steam市场页面的所有撤下按钮:
 steamcommunity.com/market/
