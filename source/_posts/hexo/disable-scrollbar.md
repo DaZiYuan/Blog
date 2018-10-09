@@ -1,10 +1,11 @@
 title: hexo next主题 禁用代码段.code pre滚动条以及自动换行
 author: 打字员
 tags:
-  - css
-  - hexo
+  - CSS
+  - Hexo
 categories:
-  - hexo
+  - Hexo
+  - ''
 date: 2018-10-09 17:46:00
 ---
 ##### 解决以下问题:
