@@ -1,5 +1,5 @@
 ---
-title: 巨应动态壁纸-官方网站
+title: 巨应动态壁纸
 date: 2018-10-19 11:05:00
 categories: products
 tags:
